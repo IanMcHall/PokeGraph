@@ -7,6 +7,7 @@ PokeGraph was created with the intent of analyzing the numerous different Pokemo
 pip install pandas
 pip install matplotlib
 pip install numpy
+pip install openpyxl
 
 ## Featured Features:
 1. Read Data In: For this feature, I read in data from an excel file that I made myself. Initially, I had planned to use an API to pull data in but decided that the excel route was more suited to this project.
