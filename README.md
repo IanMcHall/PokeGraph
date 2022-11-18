@@ -5,8 +5,11 @@ PokeGraph was created with the intent of analyzing the numerous different Pokemo
 
 ## Necessary Packages:
 pip install pandas
+
 pip install matplotlib
+
 pip install numpy
+
 pip install openpyxl
 
 ## Featured Features:
